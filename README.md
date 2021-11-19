@@ -5,4 +5,5 @@
 ### 2.fragment碎片化，实现替换人体布局
 ### 3.AnimationDrawable实现点击位置动画播放
 ## 效果
+
 <img src="file:///C:/Users/edwards/Desktop/App/%E4%BA%BA%E4%BD%93%E5%9B%BE.gif" width=800>
