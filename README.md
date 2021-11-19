@@ -6,4 +6,4 @@
 ### 3.AnimationDrawable实现点击位置动画播放
 ## 效果
 
-<img src="file:///C:/Users/edwards/Desktop/App/%E4%BA%BA%E4%BD%93%E5%9B%BE.gif" width=800>
+<img src="https://img-blog.csdnimg.cn/74f843796fc749bab7275c8e8fa671b3.gif" width=800>
